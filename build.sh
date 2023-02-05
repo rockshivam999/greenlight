@@ -1,0 +1,1 @@
+./scripts/image_build.sh greenlight_image release-v2
